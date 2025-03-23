@@ -22,15 +22,15 @@
 </p>
 
 ---
-
+<!--
 ### 📈 GitHub Stats
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu18&layout=compact)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhu18&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhu18&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidhu18&show_icons=true&theme=transparent&include_all_commits=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhu18&theme=transparent" width="51%">
 </p>
 
 ---
-<!--
 ### 🎯 Recent Projects
 🔹 [**Project 1**](https://github.com/yourusername/project1) - A cool project I built with **React & Node.js**  
 🔹 [**Project 2**](https://github.com/yourusername/project2) - Exploring **AI & Machine Learning** 🤖  
@@ -41,12 +41,14 @@
 ### 🌎 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/sidharth18/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://x.com/si_dhu_"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
+<!--
 ### 🎉 Random Developer Meme 😆
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" alt="Meme" />
 </p>
+-->

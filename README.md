@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79300&center=true&width=440&lines=Full-Stack+Developer;React+Native|React.js|Next.js;Typescript|Javascript;and+some+other+things+:P;" alt="Typing SVG" />
 </p>
 
----
-
 ### 🚀 About Me
+
 - 💻 Full-time **Software Developer**
 - 🏋️‍♂️ Fitness Goal: **Cutting down to 15% body fat!**
 - 🔥 Passionate about **Web Dev, AI, and Automation**
@@ -14,14 +13,13 @@
 - ⚡ Fun fact: I **run in the mornings and gym at night** 🏃‍♂️  
 - 🎯 Currently working on **myself 🤓**
 
----
+<h2 align="center"> </h2>
 
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,nodejs,mongodb,postgres,docker,git,java" />
 </p>
 
----
 <!--
 ### 📈 GitHub Stats
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhu18&layout=compact)
@@ -37,7 +35,6 @@
 🔹 [**Project 3**](https://github.com/yourusername/project3) - Automating boring stuff with **Python** 🐍  
 
 ---
--->
 ### 🌎 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/sidharth18/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn" /></a>
@@ -46,7 +43,6 @@
 
 ---
 
-<!--
 ### 🎉 Random Developer Meme 😆
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" alt="Meme" />

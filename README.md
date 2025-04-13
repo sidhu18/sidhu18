@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79300&center=true&width=440&lines=Full-Stack+Developer;React+Native|React.js|Next.js;Typescript|Javascript;and+some+other+things+:P;" alt="Typing SVG" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 - Full-time **Software Developer**
 - Fitness Goal: **Cutting down to 15% body fat!**
